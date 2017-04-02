@@ -4,7 +4,8 @@ List movies including posters, and links to their Trailers
 ## Quick Start
 To add additional movie instances simply add a new instance in the format:
 
-*new_movie* = media.Movie("*title*, "*storyline*", "*url_to_poster_image*", "*url_to_youtube_trailer*")
+*new_movie* = media.Movie("*title*, "*storyline*", "*url_to_poster_image*",
+ "*url_to_youtube_trailer*")
 
 ## Status
 First iteration
